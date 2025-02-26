@@ -3,7 +3,6 @@
 
 **Medium Unlocker** is a Chrome extension designed to unlock Medium for free access. With this extension, whenever you visit a Medium article, it will automatically redirect you to a free-access version.
 
----
 
 ## Features
 
@@ -15,7 +14,7 @@
   - **Windows/Linux:** `Alt+Shift+U`
   - **Mac:** `Command+Shift+U`
 
----
+
 
 ## Installation
 ### Normal Install
@@ -52,16 +51,15 @@ If you have Git installed, you can easily clone the repository:
 6. Enable **Developer Mode** by toggling the switch in the top-right corner.
 7. Click on **Load unpacked** and select the `medium-unlocker` folder.
 
----
 
 ## Note
 
-This extension is built for Chromium-based browsers. It has been tested on:
+This extension is built for Chromium-based browsers.
+It has been tested on:
 
-- **Google Chrome**
-- **Microsoft Edge**
-- **Brave**
-- **Other Chromium-based browsers**
+- Google Chrome
+- Microsoft Edge
+- Brave
 
 If you are using any of these browsers, follow the same steps to load the extension manually.
 
