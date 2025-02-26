@@ -21,7 +21,7 @@
 
 If you don't have Git, you can still install the extension by downloading the ZIP from the releases:
 
-1. Visit the [Releases](/releases) page of the repository.
+1. Visit the [Releases](https://github.com/memalf/medium-unlocker/releases) page of the repository.
 2. Download the latest ZIP file.
 3. Extract the downloaded ZIP file to a folder of your choice.
 4. Open your Chromium-based browser (e.g., Chrome, Edge, Brave).
@@ -59,7 +59,7 @@ It has been tested on:
 
 - Google Chrome
 - Microsoft Edge
-- Brave
+- Brave**
 
 If you are using any of these browsers, follow the same steps to load the extension manually.
 
